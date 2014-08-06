@@ -1,3 +1,3 @@
-# Apply General Principles
+## Apply General Principles
 
 How to apply general principles
