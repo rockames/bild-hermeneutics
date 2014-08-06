@@ -1,4 +1,4 @@
-# The Gospels
+## The Gospels
 
 1. The gospels were each written to different Christian communities with different needs and therefore emphasize different aspects of Jesus’ life and teaching.
 The authors’ concern was not only to tell the historical story of Jesus, but to tell it in a way that was intelligible to the audience addressed and that met their specific needs.

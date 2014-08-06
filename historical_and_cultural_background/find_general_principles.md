@@ -1,1 +1,3 @@
-# Find General Principles
+## Find General Principles
+
+How to find general principles.
